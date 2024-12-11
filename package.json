@@ -1,8 +1,8 @@
 {
 	"name": "deeptheme",
 	"displayName": "deep-Water-theme",
-	"description": "tema deep water é um tema em maio parte azul",
-	"version": "0.0.1",
+	"description": "deep waters is a theme for those who like blue",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.88.0"
 	},
@@ -33,11 +33,12 @@
 		"publisherId": "47fbf703-7cbf-495e-9634-531f56dc8713",
 		"publisherDisplayName": "Luizneton13",
 		"targetPlatform": "undefined",
-		"updated": false,
+		"isApplicationScoped": false,
 		"isPreReleaseVersion": false,
 		"hasPreReleaseVersion": false,
-		"installedTimestamp": 1712879122580,
+		"installedTimestamp": 1729101405947,
 		"pinned": false,
+		"preRelease": false,
 		"source": "gallery"
 	}
 }

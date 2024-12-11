@@ -1,7 +1,9 @@
-# Tema para Visual Studio Code
-<p align="center">
-  <img alt="imagem do tema" width="100%" src="./assets/Captura1.png" />
-</p>
-<p align="center">
-  <img alt="imagem do tema" width="100%" src="./assets/Captura2.png" />
-</p>
+# Change Log
+
+All notable changes to the "luiz" extension will be documented in this file.
+
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## [Unreleased]
+
+- Initial release v0.0.1
